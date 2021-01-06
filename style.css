@@ -1,0 +1,132 @@
+.menu{
+    display: inline;
+    color: #0f0f0f;
+    padding: 14px 16px;
+    text-decoration: none;
+    list-style-type: none;
+    margin: 0;
+    text-emphasis-position: right;
+    float:right;
+ 
+}
+body{
+    margin: 0;
+    
+}
+
+.name-1{
+    font-size: 40px;
+    width: auto;
+    color: indigo;
+   
+}
+.name-2{
+    font-size: 40px;
+    width: auto;
+    color:rgb(233, 96, 96) ;
+}
+h2{
+    font-size: 40px;
+    width: auto;
+    color: rebeccapurple;
+}
+
+h4{
+    color: #4512bb;
+}
+h6{
+    color: #6a5874;
+}
+p{
+    color: #4a5242;
+    font-size: small;
+}
+.name{
+    color: orange;
+    
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+
+}
+.half-width img{
+    width: 80%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient( #d14949, tomato);
+    padding: 5px 20px;
+    border-radius: 5px;
+    color: #f7ecec;
+    font-weight: bold;
+}
+section{
+    height: 300px;
+
+}
+.lastet{
+    height: 500px;
+    background-color: rgb(212, 194, 194);
+
+}
+.lastet h1{
+    color: tomato;
+    padding-top: 100px;
+}
+.working{
+    color: indigo;
+}
+h1{
+    text-align: center;
+}
+img{
+    
+}
+
+.single-experience{
+    box-shadow: 5px 5px 10px gray;
+    border-radius: 5px;
+    height: 40%;
+    background-color: white;
+    width: 30%;
+    float: left;
+    padding-left: 5px;
+    margin: 5px;
+   
+
+    
+}
+.image{
+    height: 80px;
+    width: 225px;
+}
+
+.fa {
+    height: auto;
+    margin: auto;
+  width: 30px;
+  text-decoration: none;
+  margin: 0px 15px ;
+  border-radius: 50%;
+  float:center;
+
+
+   
+  }
+  
+  h3{
+      color: rebeccapurple;
+      font-size: small;
+      text-align: center;
+  }
+  .muri{
+      text-align: center;
+  }
+  .gor{
+      color: rebeccapurple;
+      font-size:45%;
+  }
+  
